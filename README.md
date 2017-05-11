@@ -1,2 +1,9 @@
 # almaty.geo.json
-Annotated geo-json geometry files for Almaty city
+
+Couldn't find one, so I made one from OSM.
+
+#### almaty-districts.geo.json 
+City districts
+
+#### almaty.geo.json
+City borders
